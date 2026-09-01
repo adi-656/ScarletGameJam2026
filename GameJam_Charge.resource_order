@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"oBlock_bad","order":3,"path":"objects/oBlock_bad/oBlock_bad.yy",},
+    {"name":"oBlock_good","order":1,"path":"objects/oBlock_good/oBlock_good.yy",},
+    {"name":"oBlock_half","order":2,"path":"objects/oBlock_half/oBlock_half.yy",},
+    {"name":"sBlock_bad","order":4,"path":"sprites/sBlock_bad/sBlock_bad.yy",},
+    {"name":"sBlock_bad1","order":7,"path":"sprites/sBlock_bad1/sBlock_bad1.yy",},
+    {"name":"sBlock_good","order":1,"path":"sprites/sBlock_good/sBlock_good.yy",},
+    {"name":"sBlock_good1","order":5,"path":"sprites/sBlock_good1/sBlock_good1.yy",},
+    {"name":"sBlock_half_1","order":6,"path":"sprites/sBlock_half_1/sBlock_half_1.yy",},
+    {"name":"sBlock_half","order":3,"path":"sprites/sBlock_half/sBlock_half.yy",},
+  ],
+}
