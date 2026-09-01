@@ -1,1 +1,0 @@
-other.take_damage(enemy_contactDamage)
